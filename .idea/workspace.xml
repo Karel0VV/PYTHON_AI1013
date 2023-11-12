@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4ee20d2-2442-44a7-9377-b014fee9708a" name="Changes" comment="My first commit">
-      <change afterPath="$PROJECT_DIR$/Dz3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DDz" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
       <updated>1699468888424</updated>
       <workItem from="1699468889555" duration="2189000" />
       <workItem from="1699560149340" duration="580000" />
+      <workItem from="1699818179666" duration="194000" />
     </task>
     <task id="LOCAL-00001" summary="My first commit">
       <option name="closed" value="true" />
