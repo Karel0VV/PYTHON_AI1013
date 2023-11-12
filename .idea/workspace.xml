@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4ee20d2-2442-44a7-9377-b014fee9708a" name="Changes" comment="My first commit">
-      <change afterPath="$PROJECT_DIR$/DDz" afterDir="false" />
-    </list>
+    <list default="true" id="a4ee20d2-2442-44a7-9377-b014fee9708a" name="Changes" comment="My first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +51,7 @@
       <workItem from="1699468889555" duration="2189000" />
       <workItem from="1699560149340" duration="580000" />
       <workItem from="1699818179666" duration="194000" />
+      <workItem from="1699818406677" duration="376000" />
     </task>
     <task id="LOCAL-00001" summary="My first commit">
       <option name="closed" value="true" />
@@ -70,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699470557382</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="My first commit">
+      <option name="closed" value="true" />
+      <created>1699818663455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699818663455</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
